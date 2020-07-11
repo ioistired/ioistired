@@ -1,4 +1,4 @@
-## Hi there 👋
+I'm io mintz.
 
 - Ask me about obscure software licenses
 - You can reach me at the email address listed in my commits
