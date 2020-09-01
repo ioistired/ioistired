@@ -1,0 +1,9 @@
+kind: pipeline
+type: docker
+name: build
+
+steps:
+- name: lint
+  image: alpine:latest
+  commands:
+  - sha256sum README.md
