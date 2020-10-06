@@ -3,7 +3,8 @@
 
 I'm io mintz.
 
-- Ask me about obscure software licenses
+- I like writing chat bots. I might enjoy it too much, as it's pretty much all I've been doing since 2016.
+- Ask me about obscure software licenses (but keep in mind I'm not a lawyer)
 - You can reach me at the email address listed in my commits
 - pfp credit: album cover of [Newlove by Sewerslvt](https://sewerslvt.bandcamp.com/album/newlove) (CC-BY 3.0)
 
