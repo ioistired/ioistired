@@ -6,4 +6,4 @@ steps:
 - name: lint
   image: alpine:latest
   commands:
-  - false
+  - sha256sum README.md | grep 5e247c455fde7711206ebaa3ad0793114b77a6d16ed0497eff8e3bf98c6dba23
