@@ -4,7 +4,7 @@
 
 I'm io.
 
-- I like writing chat bots. I might enjoy it too much, as it's pretty much all I've been doing since 2016.
+- I like writing chat bots. 
 - I also like thinking about copyright law
 - You can reach me at the email address listed in my commits
 - pfp credit: album cover of [Newlove by Sewerslvt](https://sewerslvt.bandcamp.com/album/newlove) (CC-BY 3.0)
